@@ -12,7 +12,8 @@ body {
     display: grid;
     grid-template-areas: "Name City"
                          "Name Email"
-                         "Name LinkedIn";
+                         "Name LinkedIn"
+                         "Name GitHub";
     font-size: 20px;
     margin-bottom: 5px;
         
